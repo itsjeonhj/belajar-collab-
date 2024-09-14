@@ -9,5 +9,5 @@ Perubahan ke 3
 Perubahan ke 4-5  
 Perubahan ke 6  
 
-===================================
-Manajemen kode menjadi lebih mudah dengan Github
+===================================  
+**Manajemen kode menjadi lebih mudah dengan Github**
