@@ -8,3 +8,6 @@ Perubahan ke 1-2
 Perubahan ke 3  
 Perubahan ke 4-5  
 Perubahan ke 6  
+
+===================================
+Manajemen kode menjadi lebih mudah dengan Github
