@@ -6,5 +6,5 @@ Belaja Github tentang fork Repository. Saya Harap dengan ini, saya menjadi kompe
 
 Perubahan ke 1-2  
 Perubahan ke 3  
-Perubahan ke 4-5
-Perubahan ke 6
+Perubahan ke 4-5  
+Perubahan ke 6  
